@@ -1,0 +1,19 @@
+body{
+    background: #242B2E;
+}
+
+h1{
+    color: azure;
+}
+
+.button{
+    background-color: #FF6666;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
